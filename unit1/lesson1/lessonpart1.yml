@@ -1,0 +1,13 @@
+id: lessonpart1
+title: Welcome to aaa
+duration: 5
+content: |-
+  **Welcome to the course authoring!**
+  You can use Markdown to format your content.
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false
+editor:
+  - codeType: py
+    path: course1:unit1:lesson1:lessonpart1/main.py
